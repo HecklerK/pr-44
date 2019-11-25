@@ -1,0 +1,6 @@
+LOGIN: 
+PASWORD: 
+LOGIN: test
+PASWORD: test
+LOGIN: admin@ad.min
+PASWORD: !12345
